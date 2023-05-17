@@ -14,8 +14,16 @@ They are:
 
 ## UI Checklist
 ### UI Designs
+1. [Design mockups or prototypes]()
+1. [UI Web components being used)]() 
+1. [UI Grid / Layout being used)]() 
+1. List Any other import design / or front end patterns, libraries, etc. being used
+
 ### Security
+Security Diagram on how Token is shared between AS.com & the Frontend here.
 ## BFF Checklist
 ### Security
+Security Diagram on how Token is shared between the UI & BFF here.
 ## Domain Service Checklist
 ### Security
+Security Diagram on how Token is shared between the BFF & Domain Service here.
